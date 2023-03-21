@@ -1,1 +1,1 @@
-# qa_guru_python_3_7
+Lesson 7 homework
