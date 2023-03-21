@@ -1,0 +1,3 @@
+pytest~=7.2
+selene~=2.0b
+allure-pytest~=2.13
